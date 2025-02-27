@@ -1,0 +1,6 @@
+PyPDF2
+pdfplumber
+openai
+python-frontmatter
+tqdm
+unidecode
