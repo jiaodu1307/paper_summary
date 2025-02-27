@@ -121,3 +121,6 @@ checkpoints/
 *.pkl
 *.npy
 *.npz
+
+# 配置文件
+config.yaml
